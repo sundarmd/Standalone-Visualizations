@@ -1,1 +1,1 @@
-# This is a repository for independant Visualizations being generated for various purposes
+# This is a repository for independant Visualizations I've generated for various purposes
