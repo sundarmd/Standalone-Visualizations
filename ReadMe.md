@@ -3,7 +3,9 @@
 [Web app architecture](https://github.com/sundarmd/Standalone-Viz/blob/main/Graph%20generator%20Viz/Graph_generator_Viz.ipynb)
 ![download](https://github.com/user-attachments/assets/6820ca81-6bb9-4010-922b-e8ac0e7bd314)
 
+
 [Redfin Data Pipeline](https://github.com/sundarmd/Standalone-Viz/blob/main/redfin/refin_pipeline_architecture.py)
+
 ![download](https://github.com/user-attachments/assets/4a11eebd-069d-4533-979e-38e9fd2a0887)
 
 
