@@ -1,4 +1,4 @@
-# This is a repository of independant Visualizations I've generated for various purposes
+# This is a repository of independant Visualizations I've generated using code for various purposes
 
 [Web app architecture](https://github.com/sundarmd/Standalone-Viz/blob/main/Graph%20generator%20Viz/Graph_generator_Viz.ipynb)
 ![download](https://github.com/user-attachments/assets/6820ca81-6bb9-4010-922b-e8ac0e7bd314)
