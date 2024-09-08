@@ -1,4 +1,4 @@
-# This is a constantly growing comprehensive portfolio of data visualizations using multiple Python libraries, demonstrating versatility in data representation techniques
+# This is a constantly growing comprehensive portfolio of data visualizations using various libraries - some built for fun, some not
 
 [OpenAI GPT Prices Over Time](https://github.com/sundarmd/Standalone-Viz/blob/main/OpenAI%20GPT%20Price%20Over%20Time/GPT_Prices_VIz.ipynb)
 
