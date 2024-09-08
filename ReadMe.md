@@ -14,4 +14,7 @@
 
 ![download](https://github.com/user-attachments/assets/4a11eebd-069d-4533-979e-38e9fd2a0887)
 
+[Digital Twin for Li ion Batteries Architecture](https://github.com/sundarmd/Standalone-Visualizations/blob/main/Digital%20Twin%20for%20Li%20ion%20Batteries/Digital_Twin_Architecture.ipynb)
+
+![image](https://github.com/user-attachments/assets/7883f1df-b892-4c36-bbdf-5256f93c4199)
 
