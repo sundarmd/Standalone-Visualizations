@@ -18,3 +18,6 @@
 
 ![image](https://github.com/user-attachments/assets/7883f1df-b892-4c36-bbdf-5256f93c4199)
 
+[AI OTT News Platform](https://github.com/sundarmd/Standalone-Visualizations/blob/main/OTT%20News%20Platform/OTT%20News%20Platform%20Architecture.ipynb)
+
+![OTT Process Flow](https://github.com/user-attachments/assets/f37f20f6-6215-46f3-a935-c14b53f96d47)
